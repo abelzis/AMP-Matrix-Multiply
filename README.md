@@ -7,8 +7,6 @@ AMP is Accelerated Massive Parallelism - a Microsoft's tool to use your video ca
 # How to use
 Honestly, too difficult for me to showcase the steps. Here's a YouTube tutorial, if interested: https://www.youtube.com/watch?v=9-bc4XbMZZ0
 
-(Could provide you the full solution to Visual Studio, but not going to.)
-
 
 **EASY WAY TO TEST** Download .exe and .dll files, launch. Press d to multiply matrixes. Check task manager for GPU performance.
 
